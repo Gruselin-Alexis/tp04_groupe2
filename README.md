@@ -1,4 +1,4 @@
-# tp04_groupe2: Maes Simon, Gruselin Alexis, Gruselin Rafaël, Moulaye Zeini Habibou
+# TP04_Groupe2: Maes Simon, Gruselin Alexis, Gruselin Rafaël, Moulaye Zeini Habibou
 sujet: Programme qui trie une liste de nombres donnés par ordre croissant ou décroissant.
 
 énoncé: -Pour faire ce programme, il faut utiliser une condition à l'intérieur de laquelle une boucle est effectuée.
